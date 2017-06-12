@@ -1,0 +1,4 @@
+﻿  TerrainEngineLoader.cpp
+source\TerrainEngineLoader.cpp(47): warning C4297: 'TerrainEngineLoader::~TerrainEngineLoader': function assumed not to throw an exception but does
+  source\TerrainEngineLoader.cpp(47): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  TerrainEngineLoader.vcxproj -> E:\Projects\Tomorrow\lib\TerrainEngineLoader.lib

@@ -1,0 +1,8 @@
+﻿  SkyBox.cpp
+  TerrainEngineFrame.cpp
+     Creating library E:\Projects\Tomorrow\Release\TerrainEngine.lib and object E:\Projects\Tomorrow\Release\TerrainEngine.exp
+  Generating code
+  All 604 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TerrainEngine.vcxproj -> E:\Projects\Tomorrow\Release\TerrainEngine.dll
+  TerrainEngine.vcxproj -> E:\Projects\Tomorrow\Release\TerrainEngine.pdb (Full PDB)
